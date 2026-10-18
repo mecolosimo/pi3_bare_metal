@@ -3,7 +3,9 @@
 This is based on several other projects:
 
 - [bare_metal](https://github.com/adamransom/bare_metal/tree/master)
-  -  [adamransom.github.io](https://adamransom.github.io)  
+  -  [adamransom.github.io](https://adamransom.github.io)
+
+- [raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial)
 
 
 ## Setup
